@@ -1,10 +1,25 @@
+body {
+    color: #fff;
+}
+
 header {
     background-color: #2C3E50;
-    color: #fff;
     height: 80px;
 }
 
 ul {
     list-style-type: none;
     margin: 0;
+}
+
+#start {
+    background-color: #1ABC9C;
+    min-height: 100px;
+    padding: 20px 0;
+}
+
+.quad {
+    height: 655px;
+    background-color: rgb(11, 73, 73);
+    border: 5px dashed #fff;
 }
