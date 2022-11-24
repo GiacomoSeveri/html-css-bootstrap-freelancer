@@ -9,6 +9,11 @@ header {
     height: 80px;
 }
 
+footer {
+    background-color: #2C3E50;
+    height: 70px;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
