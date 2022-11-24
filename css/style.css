@@ -1,3 +1,5 @@
+/* gemerics */
+
 body {
     color: #fff;
 }
@@ -11,6 +13,8 @@ ul {
     list-style-type: none;
     margin: 0;
 }
+
+/* id */
 
 #start {
     background-color: #1ABC9C;
@@ -33,6 +37,14 @@ ul {
     min-height: 100px;
     padding: 20px 0;
 }
+
+#location {
+    background-color: #3A546D;
+    min-height: 60px;
+    padding: 20px 0;
+}
+
+/* class */
 
 .quad {
     height: 655px;
@@ -62,5 +74,4 @@ ul {
     background-color: rgb(11, 73, 73);
     border: 5px dashed #fff;
     color: #fff;
-
 }
