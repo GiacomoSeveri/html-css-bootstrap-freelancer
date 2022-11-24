@@ -23,3 +23,16 @@ ul {
     background-color: rgb(11, 73, 73);
     border: 5px dashed #fff;
 }
+
+#profile {
+    min-height: 100px;
+    padding: 20px 0;
+}
+
+.quad-img {
+    height: 350px;
+    background-color: rgb(11, 73, 73);
+    border: 5px dashed #fff;
+    color: #fff;
+
+}
