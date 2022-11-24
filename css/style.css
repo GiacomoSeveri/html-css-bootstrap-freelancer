@@ -1,0 +1,10 @@
+header {
+    background-color: #2C3E50;
+    color: #fff;
+    height: 80px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
