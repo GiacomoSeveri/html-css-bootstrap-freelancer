@@ -29,6 +29,11 @@ ul {
     padding: 20px 0;
 }
 
+#contact {
+    min-height: 100px;
+    padding: 20px 0;
+}
+
 .quad {
     height: 655px;
     background-color: rgb(11, 73, 73);
@@ -50,4 +55,12 @@ ul {
     background-color: rgb(11, 73, 73);
     border: 5px dashed #fff;
     padding: 50px 0;
+}
+
+.quad-cont {
+    min-height: 50px;
+    background-color: rgb(11, 73, 73);
+    border: 5px dashed #fff;
+    color: #fff;
+
 }
