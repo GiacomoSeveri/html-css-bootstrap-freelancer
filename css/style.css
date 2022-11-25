@@ -51,32 +51,11 @@ ul {
 
 /* class */
 
-.quad {
-    height: 655px;
-    background-color: rgb(11, 73, 73);
-    border: 5px dashed #fff;
-    padding: 50px 0;
+.custom-img-w {
+    max-width: 100%;
 }
 
-.quad-img {
-    height: 350px;
-    background-color: rgb(11, 73, 73);
-    border: 5px dashed #fff;
-    color: #fff;
-    padding: 50px 0;
-
-}
-
-.quad-text {
-    height: 200px;
-    background-color: rgb(11, 73, 73);
-    border: 5px dashed #fff;
-    padding: 50px 0;
-}
-
-.quad-cont {
-    min-height: 50px;
-    background-color: rgb(11, 73, 73);
-    border: 5px dashed #fff;
-    color: #fff;
+.custom-figure-w {
+    width: 370px;
+    margin: 0 auto;
 }
