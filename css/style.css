@@ -64,3 +64,15 @@ ul {
     width: 320px;
     margin: 0 auto;
 }
+
+input {
+    width: 100%;
+}
+
+textarea {
+    height: 150px;
+}
+
+.btn-custom-color {
+    background-color: #1ABC9C;
+}
